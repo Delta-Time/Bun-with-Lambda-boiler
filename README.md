@@ -1,5 +1,3 @@
-# letty
-
 To install dependencies:
 
 ```bash
