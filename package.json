@@ -9,7 +9,7 @@
     "eslint": "^8.56.0"
   },
   "scripts": {
-    "format": "npx prettier --write 'src/**/*.ts' && eslint --fix --ext .ts src"
+    "format": "bunx prettier --write 'src/**/*.ts' && eslint --fix 'src/**/*.ts'"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
