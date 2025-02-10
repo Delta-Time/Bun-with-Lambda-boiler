@@ -6,7 +6,7 @@
     "@types/bun": "latest",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.16.0",
-    "eslint": "^8.57.1"
+    "eslint": "^9.20.0"
   },
   "scripts": {
     "format": "bunx prettier --write 'src/**/*.ts' && eslint --fix 'src/**/*.ts'"
